@@ -1,0 +1,46 @@
+{
+  "projectList": [
+    {
+      "id": 1,
+      "title": "dự án tốt nghiệp",
+      "description": " CellphoneS Điện thoại iPhone 13 (Mini/Pro/Pro Max) | Giá bán mới nhất",
+      "image": "500",
+      "url": "hhhhhhhhh",
+      "repository": ""
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "sontv",
+      "password": "123456",
+      "roleId": 1
+    },
+    {
+      "id": 2,
+      "username": "thienth",
+      "password": "123456",
+      "roleId": 1
+    },
+    {
+      "email": "quang@gmail.com",
+      "password": "12345",
+      "id": 3
+    },
+    {
+      "email": "quangpnph20850@fpt.edu.vn",
+      "password": "3456",
+      "id": 4
+    }
+  ],
+  "role": [
+    {
+      "id": 1,
+      "name": "admin"
+    },
+    {
+      "id": 2,
+      "name": "user"
+    }
+  ]
+}
